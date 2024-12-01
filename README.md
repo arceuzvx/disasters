@@ -9,5 +9,8 @@ It can identify:-
 - non damage
 
 [click to download datastet from kaggle](https://www.kaggle.com/datasets/varpit94/disaster-images-dataset)
-- ver 1
-- 689mb
+
+  # Usage
+  - upload the downloaded dataset to your google drive
+  - mount it to your google colab notebook
+  - runtime type: T4 GPU
